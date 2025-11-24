@@ -110,6 +110,14 @@ const utkarsh = {
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=utkarshbhai007&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
+
+</div>
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -122,19 +130,11 @@ const utkarsh = {
 
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=utkarshbhai007&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
-
-</div>
-
 ---
 
 <div align="center">
 
-### 💡 "First, solve the problem. Then, write the code." - John Johnson
+### 💡 "First, solve the problem. Then, write the code." - Utkarsh Barad
 
 **Thanks for visiting! Let's build something amazing together! 🚀**
 
