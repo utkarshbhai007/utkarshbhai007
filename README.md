@@ -114,7 +114,7 @@ const utkarsh = {
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=utkarshbhai007&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=utkarshbhai007&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=8)
 
 </div>
 
